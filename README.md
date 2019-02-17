@@ -18,31 +18,31 @@ PLEASE INSTALL ALL DEPENDENCIES BEFORE COMPILING. REQUIRES NODE.
 ## Installation 
 
 
-- Clone this repo to your local machine https://github.com/adlesh/uits-proto.git
+### Clone this repo to your local machine https://github.com/adlesh/uits-proto.git
 
 ```
 git clone https://github.com/adlesh/uits-proto.git
 ```
 
-- cd into the directory 
+### cd into the directory 
 
 ```
 cd uits-proto
 ```
 
-- cd into ask-cody-ember
+### cd into ask-cody-ember
 
 ```
 cd ask-cody-ember
 ```
 
-- run the npm install command
+### run the npm install command
 
 ```
 npm install
 ```
 
-- run the ember serve command for local host
+### run the ember serve command for local host
 
 ```
 ember serve
@@ -50,13 +50,13 @@ ember serve
 
 ### open another terminal  
 
-- get back into the ask-cody-ember directory
+### get back into the ask-cody-ember directory
 
 ```
 cd uits-proto/ask-cody-ember
 ```
 
-- run app.js in node 
+### run app.js in node 
 
 ```
 node app.js
